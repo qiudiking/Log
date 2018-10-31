@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/Log",
+    "name": "at_server/log",
     "description": "Log",
     "license": "MIT",
     "type": "library",
